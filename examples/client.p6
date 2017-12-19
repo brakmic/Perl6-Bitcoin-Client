@@ -5,6 +5,8 @@ use Bitcoin::RPC::Client;
 
 my $client = Bitcoin::RPC::Client.new(url => '192.168.192.8', port => '8332');
 
+# supported formats: json (default), hex, and bin (converted into utf8)
+
 my $result = $client.getTx('5668d651db2794aa9542e2935f9dc7330d4f86870cfbd20e7ff1ff31ed26d0f4', 'json');
 # my $result = $client.getBlock('000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f');
 # my $result = $client.getHeaders(1, '000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f');
