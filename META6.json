@@ -13,5 +13,5 @@
         "Bitcoin::RPC::Client": "lib/Bitcoin/RPC/Client.pm6"
     },
     "authors"      : [ "Harris Brakmic" ],
-    "support"      : { "source"   : "git://github.com/brakmic/Bitcoin_Client_Perl6.git" }
+    "support"      : { "source"   : "git://github.com/brakmic/Perl6-Bitcoin-Client.git" }
 }
