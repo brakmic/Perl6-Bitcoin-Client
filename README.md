@@ -25,6 +25,10 @@ For more info on how to setup a Bitcoin Full Node visit [this page](http://blog.
 
 Check the [example script](https://github.com/brakmic/Perl6-Bitcoin-Client/blob/master/examples/client.p6) for more information about available functions.
 
+## Installation
+
+`zef install .`
+
 ## LICENSE
 
 [MIT](https://github.com/brakmic/Perl6-Bitcoin-Client/blob/master/LICENSE)
