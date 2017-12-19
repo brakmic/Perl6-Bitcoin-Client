@@ -2,7 +2,7 @@
     "perl"         : "6.c",
     "name"         : "Bitcoin::RPC::Client",
     "license"      : "Artistic-2.0",
-    "version"      : "1.000000",
+    "version"      : "0.0.1",
     "description"  : "query Bitcoin transactions, wallet info and more",
     "depends"      : [
         "WWW",
