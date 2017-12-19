@@ -31,4 +31,4 @@ Check the [example script](https://github.com/brakmic/Perl6-Bitcoin-Client/blob/
 
 ## LICENSE
 
-[MIT](https://github.com/brakmic/Perl6-Bitcoin-Client/blob/master/LICENSE)
+[Artistic License 2.0](https://github.com/brakmic/Perl6-Bitcoin-Client/blob/master/LICENSE)
